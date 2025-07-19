@@ -1,5 +1,5 @@
 # 👋 Sveiki, aš [Mantas]!  
-🚀 Python/Django programuotojas | Vilnius  
+🚀  Junior Python/Django programuotojas | Vilnius  
 🔧 Specializacija: Backend sistemos ir web aplikacijos 
 
 
