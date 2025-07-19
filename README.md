@@ -9,6 +9,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-4169E1?logo=postgresql)  
 
 
-## 📫 Kaip pasiekti  
+## 📫 Kaip susisiekti  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilis-0A66C2?logo=linkedin)](https://linkedin.com/in/mantas-an)  
 📧 mantasantanavic@gmail.com  
