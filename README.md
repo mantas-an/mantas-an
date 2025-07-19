@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Sveiki, aš [Mantas]!  
+🚀 Python/Django programuotojas | Vilnius  
+🔧 Specializacija: Backend sistemos ir web aplikacijos 
 
-<!--
-**mantas-an/mantas-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Mano stackas  
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)  
+![Django](https://img.shields.io/badge/Django-5.2-092E20?logo=django)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-4169E1?logo=postgresql)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Kaip pasiekti  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilis-0A66C2?logo=linkedin)](https://linkedin.com/in/mantas-an)  
+📧 mantasantanavic@gmail.com  
