@@ -1,4 +1,4 @@
-# 👋 Sveiki, aš [Mantas]!  
+# 👋 Sveiki, aš Mantas!  
 🚀  Junior Python/Django programuotojas | Vilnius  
 🔧 Specializacija: Backend sistemos ir web aplikacijos 
 
